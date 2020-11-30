@@ -4,7 +4,7 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=b-a-a-s&repo=portfolio)
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+![counter](https://enkaab1o9yeof58.m.pipedream.net)
 
 <!--
 **b-a-a-s/b-a-a-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
