@@ -2,7 +2,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=b-a-a-s)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=b-a-a-s&repo=serverless)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=b-a-a-s&repo=tools)
 
 ![counter](https://[YourEndpoint].m.pipedream.net)
 
